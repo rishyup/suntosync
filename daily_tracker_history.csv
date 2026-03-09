@@ -1,0 +1,7 @@
+date,diet_pref,walk_duration,activity,fatigue,nap_duration,sunlight,readiness,score,breakfast,lunch
+2026-03-08,Vegetarian,30,Walking,3,20,30,Moderate,75,Poha,roti
+2026-03-08,Vegetarian,40,Walking,5,20,15,Low,48,,
+2026-03-08,Non-Vegetarian,41,Walking,3,20,15,Low,54,YES,yes
+2026-03-08,Non-Vegetarian,41,Walking,3,20,45,High,90,YES,yes
+2026-03-08,Non-Vegetarian,6,Walking,3,20,45,High,79,YES,yes
+2026-03-08,Vegetarian,30,Walking,5,20,15,Low,45,,
