@@ -88,3 +88,4 @@ streamlit run app.py
 
 - No external API calls are used.
 - Data remains local in SQLite (`circadian_tracker.db`).
+⁣
